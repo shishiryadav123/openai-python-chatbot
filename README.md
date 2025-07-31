@@ -18,7 +18,8 @@ A lightweight command-line chatbot built with **Python** and powered by **OpenAI
 ```bash
 openai-python-chatbot/
 │
-├── main.py                         
+├── main.py
+├── venv                        
 ├── requirements.txt     
 ├── .env                 
 └── README.md
